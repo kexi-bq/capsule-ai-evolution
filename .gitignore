@@ -1,0 +1,8 @@
+.vs/
+embedding-env/
+__pycache__/
+*.pyc
+*.log
+*.png
+*.jpg
+.DS_Store
